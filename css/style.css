@@ -1,0 +1,14 @@
+.wrapper {
+    padding-left: 15rem;
+}
+
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: #ffdab9 !important;
+}
+
+.btn-check:focus+.btn,
+.btn:focus {
+    outline: 0;
+    box-shadow: none !important;
+}
