@@ -1,5 +1,7 @@
-
-
+.row-cols-2>* {
+    flex: 0 0 auto;
+    width: 44%;
+}
 
 .wrapper {
     padding-left: 15rem;
@@ -16,3 +18,17 @@
     box-shadow: none !important;
 }
 
+.margin-on-top {
+    margin-top: 2rem;
+}
+
+.margin-and-float {
+    width: 280px;
+    float: left;
+    margin-right: 1rem;
+}
+
+.yummy-logo {
+    margin-right: auto;
+    margin-bottom: 5px;
+}
